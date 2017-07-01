@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body { 
+    font-family: serif;
+	font-size: 1.1em;
+    text-align: justify;}
+
+section { background-color: firebrick;}
+
+
+
+.primeira {padding: 1% 2% 1% 2%;
+    color: white;
+    position: relative;
+    }
+
+nav { padding: 0% 0% 0% 0%;
+    width: 100%;
+    position: relative;}
+
+
+
+ui {color: white;}
+
+
+
+footer { color: white;
+    background-color: rgb(16, 16, 16);
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    position: relative;
+    bottom: -56%;}
+
+
+
+.logo {margin-top: 2%;}
+
+
+
+.formulario { background-color: white;}
+
+.avalia {color: white;
+    background-color:rgb(48, 48, 48) ;
+margin-top: 3%;}
+
+
+
+.baixo {color: black;}  
+
+header {background-color: rgb(48, 48, 48) ;}
+
+.beco {text-align: center;}
+
+.contato {color: black; 
+text-align: center;
+}
+
+
+.fotoborda {margin-bottom: 3%;}
+
+.bordadois {margin-top: 2%;}
+
+
+
+table {border: 1px solid black;
+
+	margin-top: 2%;
+    margin-bottom: 2%;
+    color: black;
+}
+
+table thead tr th {border: 1px solid black;}
+
+table tbody tr td  {color: black; 
+    border: 1px solid black;}
+
+
+.feitiços {color: white;
+    background-color: firebrick;}
+
+.gri {float: left;}
+
+
+.umevento {margin-bottom: 5%;}
+
+.magic {margin-top: 2%;}
+
+.tabelaeventos {color: white;
+border-color: white;
+text-align: center;}
+
+.aga {margin-bottom: 5%;}
+
+.leiamais {text-decoration: none;
+color: white;}
+
+.ann {margin-bottom: 3%;
+margin-right: 2%;}
+
+.fotinhas {margin-top: 8%;}
+
